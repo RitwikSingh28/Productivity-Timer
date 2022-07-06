@@ -1,6 +1,7 @@
-# new_project
+# Flutter Productive Timer App
 
-A new Flutter project.
+A Flutter Timer App in which I aim to build a Timer App containing different settings. 
+In Pomodoro technique, in which we work for a certain fixed time with focus, and then take breaks in between, this app is an implementation of that productivity technique.
 
 ## Getting Started
 
